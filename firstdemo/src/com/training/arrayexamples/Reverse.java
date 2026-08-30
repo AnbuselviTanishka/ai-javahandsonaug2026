@@ -13,7 +13,6 @@ public class Reverse {
 		{
 			rem=num%10;
 			System.out.print(rem);
-			
 			num=num/10;
 			i++;
 		}
